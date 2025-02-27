@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Raihan Alghiffari</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate and versatile developer from Indonesia who likes working on frontend, backend, and machine learning projects.</h3>
 <<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alghiffari10&label=Profile%20views&color=0e75b6&style=flat" alt="alghiffari10" /> </p>
 
-- 🌱 I’m currently learning **Kotlin Mobile Android,CSS,Javascript,**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📝 I regularly write articles on [https://medium.com/@AlRaihan](https://medium.com/@AlRaihan)
 
-- 💬 Ask me about **Android**
-
 - 📫 How to reach me **anakif2805@gmail.com**
-
 
 
 <h3 align="left">Connect with me:</h3>
