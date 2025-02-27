@@ -8,13 +8,14 @@
 
 - 📝 I regularly write articles on [https://medium.com/@AlRaihan](https://medium.com/@AlRaihan)
 
+- Doesn't have any social media accounts
+
 - 📫 How to reach me **anakif2805@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raihan alghiffari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihan alghiffari" height="30" width="40" /></a>
-<a href="https://instagram.com/alghiffari27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alghiffari27" height="30" width="40" /></a>
 <a href="https://medium.com/@alraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alraihan" height="30" width="40" /></a>
 </p>
 
