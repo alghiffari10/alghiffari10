@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@AlRaihan](https://medium.com/@AlRaihan)
+- 📝 I write articles on [https://medium.com/@AlRaihan](https://medium.com/@AlRaihan)
 
 - Doesn't have any social media accounts
 
