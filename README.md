@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alghiffari10&label=Profile%20views&color=0e75b6&style=flat" alt="alghiffari10" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📝 I write articles on [https://medium.com/@AlRaihan](https://medium.com/@AlRaihan)
 
